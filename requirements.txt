@@ -1,0 +1,4 @@
+selector==0.10.1
+sockets==1.0.0
+matplotlib==3.7.5
+tikzplotlib
